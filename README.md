@@ -52,7 +52,7 @@ Build your debug APK. All build caches are stored in a hidden `.cache` folder in
 
 ---
 
-## ⚙️ Script Commands
+## Script Commands
 
 | Command | Description |
 | --- | --- |
