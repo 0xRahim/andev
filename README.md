@@ -2,7 +2,7 @@
 
 A lightweight, containerized Android development environment that allows you to initialize, write, and compile Android applications (Java or Kotlin) without installing the Android SDK, Java, or Gradle on your host machine.
 
-## 🛠️ Prerequisites
+## Prerequisites
 
 * **Podman** installed and configured.
 * **Internet Connection** (only for the first build and first compilation to download dependencies).
