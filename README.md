@@ -43,7 +43,7 @@ Build your debug APK. All build caches are stored in a hidden `.cache` folder in
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 * `andev.sh`: The main control script.
 * `Dockerfile`: Defines the build environment (Fedora-based).
