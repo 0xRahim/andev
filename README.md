@@ -1,4 +1,4 @@
-# 🚀 Android Isolated Dev Env (Podman)
+# Android Isolated Dev Env (Podman)
 
 A lightweight, containerized Android development environment that allows you to initialize, write, and compile Android applications (Java or Kotlin) without installing the Android SDK, Java, or Gradle on your host machine.
 
@@ -9,7 +9,7 @@ A lightweight, containerized Android development environment that allows you to 
 
 ---
 
-## 🚦 Getting Started
+## Getting Started
 
 ### 1. Setup the Environment
 
@@ -63,7 +63,7 @@ Build your debug APK. All build caches are stored in a hidden `.cache` folder in
 
 ---
 
-## 💡 Troubleshooting
+## Troubleshooting
 
 ### "Stuck" on Compiling
 
@@ -84,7 +84,7 @@ You may see warnings regarding "File system watching." These are expected and sa
 
 ---
 
-## 📜 License
+## License
 
 This project is open-source. Feel free to modify the `andev.sh` script to suit your specific build needs!
 
